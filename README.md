@@ -56,7 +56,8 @@ files = [
 
 ```
 
-#### output
+#### command
+`python3 bobs.py -sb -c /home/user/config.toml -d /home/user/destination`
 ```bash
 Config: /home/user/config.toml
 Destination: /home/user/destination
