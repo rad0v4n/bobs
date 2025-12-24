@@ -35,7 +35,7 @@ Files not found in config.toml (including files in directories set to be copied)
 ## Example usage
 
 #### config.toml
-```
+```json
 [config]
 depth = 2
 files = [
@@ -57,7 +57,7 @@ files = [
 ```
 
 #### output
-```
+```bash
 Config: /home/user/config.toml
 Destination: /home/user/destination
 [+] /home/user/.config/hypr/hyprland.conf ->  config/hypr/hyprland.conf
