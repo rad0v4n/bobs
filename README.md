@@ -28,9 +28,9 @@ Whole directory: `[dirs]`
 -r, --keep-redundant  do not remove redundant files
 ```
 
-#### !important!
+## !important!
 
-Files not found in config.toml (including files in directories set to copied) get deleted by default. This can be turned off using the `-r` flag to keep redundant files.
+Files not found in config.toml (including files in directories set to be copied) get deleted by default. This can be turned off using the `-r` flag to keep redundant files.
 
 ## Example usage
 
