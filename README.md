@@ -89,3 +89,7 @@ destination/
 │  ├─ mullvad_toggle.sh
 │  ├─ screenshot.sh
 ```
+
+## Final notes
+
+This script is very limited and the current config structure doesn't allow for some really basic stuff. I just wrote it to quickly backup some system files, and I'm not planning on expanding it much further. I might add some features, but it's not a guarantee.
