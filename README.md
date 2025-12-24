@@ -35,7 +35,7 @@ Files not found in config.toml (including files in directories set to be copied)
 ## Example usage
 
 #### config.toml
-```json
+```toml
 [config]
 depth = 2
 files = [
