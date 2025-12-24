@@ -1,6 +1,6 @@
 # bobs.py
 
-bobs.py is a simple backup script that allows you to copy files from multiple directories into a single destination using a single toml configuration file.
+Barely Operational Backup Script (or bobs.py) is a simple backup script that allows you to copy files from multiple directories into a single destination using a single toml configuration file.
 
 ## Basic Usage
 
